@@ -6,4 +6,4 @@ author: Jan Maria
 
 # What what
 
-Do that thing.
+Zażółć gęślą jaźń 🙈
